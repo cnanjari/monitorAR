@@ -1,0 +1,9 @@
+/Users/cristophernanjari/Desktop/batchbyid/src/main/java/com/altiuz/ar/monitor/util/JPAUtility.java
+/Users/cristophernanjari/Desktop/batchbyid/src/main/java/com/altiuz/ar/monitor/repository/procesoRepository.java
+/Users/cristophernanjari/Desktop/batchbyid/src/main/java/com/altiuz/ar/monitor/queries/processquery.java
+/Users/cristophernanjari/Desktop/batchbyid/src/main/java/com/altiuz/ar/monitor/exception/ResourceNotFoundException.java
+/Users/cristophernanjari/Desktop/batchbyid/src/main/java/com/altiuz/ar/monitor/model/proceso.java
+/Users/cristophernanjari/Desktop/batchbyid/src/main/java/com/altiuz/ar/monitor/controller/processController.java
+/Users/cristophernanjari/Desktop/batchbyid/src/main/java/com/altiuz/ar/monitor/repository/documentoRepository.java
+/Users/cristophernanjari/Desktop/batchbyid/src/main/java/com/altiuz/ar/monitor/BatchbyidApplication.java
+/Users/cristophernanjari/Desktop/batchbyid/src/main/java/com/altiuz/ar/monitor/model/documento.java

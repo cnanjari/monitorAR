@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.altiuz.ar.batchbyid.BatchbyidApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.21 s <<< FAILURE! - in com.altiuz.ar.batchbyid.BatchbyidApplicationTests
+initializationError(com.altiuz.ar.batchbyid.BatchbyidApplicationTests)  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
